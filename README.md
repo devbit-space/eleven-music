@@ -9,9 +9,9 @@ A simple React Native app built with **Expo** that plays audio using the `expo-a
 - `expo` CLI for development and testing
 
 ## **Screenshots**
-<!-- ![Interface1](./src/assets/llElevenLabs1.png) -->
+![Interface1](./src/assets/screenshot1.png)
 
-<!-- ![Interface2](./src/assets/llElevenLabs2.png) -->
+![Interface2](./src/assets/screenshot2.png)
 
 ## 🚀 Features
 
