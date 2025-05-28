@@ -43,7 +43,7 @@ const Home = () => {
         }
     };
 
-    const videoSource = require("../../assets/loop.mp4");
+    const videoSource = require("../../assets/wave-loop.mp4");
     const player = useVideoPlayer(videoSource, player => {
         try {
             player.loop = true;
